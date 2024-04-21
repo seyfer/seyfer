@@ -6,7 +6,10 @@ These are the best ways to contact me:
 [![Gmail Badge](https://img.shields.io/badge/-seyferseed@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seyferseed@gmail.com)](mailto:seyferseed@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-StackOverflow-282C34?style=flat-square&logo=stackoverflow&logoColor=FE7A16&link=https://stackoverflow.com/users/1074834/oleg-abrazhaev)](https://stackoverflow.com/users/1074834/oleg-abrazhaev)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p>
+    <img style="text-align: left;" alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder" />
+    <img style="text-align: right;" alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 Stats:
 
