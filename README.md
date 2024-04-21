@@ -90,5 +90,5 @@ Stats:
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
     <!-- [Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go) -->
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=seyfer&theme=dark)](https://git.io/streak-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=seyfer&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
