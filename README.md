@@ -13,7 +13,7 @@ These are the best ways to contact me:
 
 Stats:
 
-![](https://raw.githubusercontent.com/seyfer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/seyfer/github-stats/generated/overview.svg#gh-dark-mode-only)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=seyfer&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
