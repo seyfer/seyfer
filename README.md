@@ -14,8 +14,9 @@ These are the best ways to contact me:
 Stats:
 
 ![](https://raw.githubusercontent.com/seyfer/github-stats/generated/overview.svg#gh-dark-mode-only)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=seyfer&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://raw.githubusercontent.com/seyfer/github-stats/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/seyfer/github-stats/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/seyfer/github-stats/generated/languages.svg#gh-light-mode-only)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -69,4 +70,3 @@ Stats:
     <!-- [Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=seyfer&theme=dark)](https://git.io/streak-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=seyfer&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
